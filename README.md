@@ -177,15 +177,12 @@ Você deve ver:
 
 ### VS Code com o projeto aberto
 
-![VS Code com estrutura do projeto](docs/screenshots/01-estrutura-projeto.png)
 
 ### Aplicação rodando no terminal
 
-![Aplicação Spring Boot em execução](docs/screenshots/02-app-rodando.png)
 
 ### Endpoint no navegador
 
-![Resposta do endpoint olaMundo](docs/screenshots/03-endpoint-olaMundo.png)
 
 ---
 
